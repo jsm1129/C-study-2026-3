@@ -32,6 +32,10 @@ solution5
 
 solution6
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/150367
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/150366
+
 solution7
 
 solution8
