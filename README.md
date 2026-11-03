@@ -38,6 +38,10 @@ solution6
 
 solution7
 
+-https://school.programmers.co.kr/learn/courses/30/lessons/84021
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/86053
+
 solution8
 
 solution9
