@@ -49,3 +49,7 @@ solution8
 -https://school.programmers.co.kr/learn/courses/30/lessons/468377
 
 solution9
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/389481
+
+-https://school.programmers.co.kr/learn/courses/30/lessons/258705
